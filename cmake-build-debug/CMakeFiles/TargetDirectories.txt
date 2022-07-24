@@ -1,0 +1,3 @@
+/home/cozard/CLionProjects/ezfs/cmake-build-debug/CMakeFiles/ezfs.dir
+/home/cozard/CLionProjects/ezfs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cozard/CLionProjects/ezfs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

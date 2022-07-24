@@ -1,0 +1,10 @@
+# ninja log v5
+103	140	1658381692484761556	ezfs	7d3ec710c2cdc4ea
+1	85	1658322695682384909	CMakeFiles/ezfs.dir/ezfs_util.c.o	bcbcba1b2f113a79
+1	103	1658381692444760836	CMakeFiles/ezfs.dir/main.c.o	7bb194eec10ba998
+0	38	1658381989691367644	build.ninja	ea1357ed222e17ca
+1	85	1658322695682384909	CMakeFiles/ezfs.dir/garbage.c.o	f68404b4d823d36c
+0	41	1658367130269442363	CMakeFiles/ezfs.dir/dir_tree.c.o	70a59ddd770b482a
+2	31	1658368033764111593	CMakeFiles/ezfs.dir/src/ezfs_util.c.o	1e68253a4b30b12f
+0	38	1658373177591412763	CMakeFiles/ezfs.dir/src/dir_tree.c.o	8055065537696ab3
+0	87	1658315690911603610	CMakeFiles/ezfs.dir/ezfs.c.o	25409383b0732d36
